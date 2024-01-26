@@ -1,2 +1,3 @@
 Sometimes I wonder,
 Git branches, a maze of code,
+Merge conflicts resolve.
